@@ -1,6 +1,8 @@
 # goeg
 book &lt;programming in go creating applications for the 21st century> source code
 
+**发现很多书中的小例子在官方提供的代码里没有，书中的代码没有指明是哪个源文件，真是难以使用。**
+
 #### Chapter 1: An Overview in Five Examples
     hello
     bigdigits
