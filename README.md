@@ -1,7 +1,7 @@
 # goeg
 book &lt;programming in go creating applications for the 21st century> source code
 
-Chapter 1: An Overview in Five Examples
+### Chapter 1: An Overview in Five Examples
     hello
     bigdigits
     stack
@@ -9,7 +9,7 @@ Chapter 1: An Overview in Five Examples
     polar2cartesian
     bigdigits_ans
 
-Chapter 2: Identifiers, Booleans, and Numbers
+### Chapter 2: Identifiers, Booleans, and Numbers
     pi_by_digits
     statistics
     statistics_ans
