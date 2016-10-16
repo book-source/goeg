@@ -1,7 +1,7 @@
 # goeg
 book &lt;programming in go creating applications for the 21st century> source code
 
-### Chapter 1: An Overview in Five Examples
+#### Chapter 1: An Overview in Five Examples
     hello
     bigdigits
     stack
@@ -16,17 +16,17 @@ book &lt;programming in go creating applications for the 21st century> source co
     quadratic_ans1
     quadratic_ans2
 
-Chapter 3: Strings
+### Chapter 3: Strings
     m3u2pls
     playlist
     soundex
 
-Chapter 4: Collection Types
+### Chapter 4: Collection Types
     guess_separator
     wordfrequency
     chap4_ans
 
-Chapter 5: Procedural Programming
+### Chapter 5: Procedural Programming
     archive_file_list
     archive_file_list_ans
     statistics_nonstop
@@ -38,7 +38,7 @@ Chapter 5: Procedural Programming
     indent_sort
     common_prefix
 
-Chapter 6: Object-Oriented Programming
+### Chapter 6: Object-Oriented Programming
     fuzzy
     fuzzy_immutable
     fuzzy_mutable
@@ -53,7 +53,7 @@ Chapter 6: Object-Oriented Programming
     shaper_ans2
     shaper_ans3
 
-Chapter 7: Concurrent Programming
+### Chapter 7: Concurrent Programming
     filter
     cgrep1
     cgrep2
@@ -70,8 +70,8 @@ Chapter 7: Concurrent Programming
     imagetag2
     sizeimages1
     sizeimages2
-
-Chapter 8: File Handling
+    
+### Chapter 8: File Handling
     invoicedata
     pack
     unpack
@@ -79,7 +79,7 @@ Chapter 8: File Handling
     utf16-to-utf8
     invoicedata_ans
 
-Chapter 9: Packages
+### Chapter 9: Packages
     qtrac.eu/omap
     cgrep3
     linkcheck
